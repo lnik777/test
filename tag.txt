@@ -8,13 +8,14 @@
 #FUELGUILD
 #GAMEYS
 #Hiroba
+#HXDAO
 #JGG
 #kasotukun
 #KIMOKAWA
 #LucianSouls
 #MetaKozo
-#metatest
 #misa
+#MMMM
 #NGJ
 #NGS
 #NR
@@ -30,4 +31,3 @@
 #YGGJapan
 #yuli2earn
 #yuliverse
-#株式会社DAO
