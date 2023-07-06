@@ -1,7 +1,6 @@
 elonmusk
 ToscaMusk
 justinemusk
-web3_coin
 Yogapetz
 SecretAlphaX
 SollywoodStudio
@@ -14,7 +13,6 @@ Web3Breakfast
 ONTOWallet
 RangersProtocol
 join_hyve
-Web3Point2k23
 VitalikButerin
 searchfi_eth
 eth_ben
