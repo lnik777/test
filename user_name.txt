@@ -30,7 +30,6 @@ pepecoineth
 okx
 star_okx
 awsbclub_cn
-55555_eth
 opensea
 CryptoWeb3_NFT
 LOUDMOUTH_ETH
