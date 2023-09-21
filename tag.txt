@@ -1,34 +1,14 @@
-#OMPPPPPP
-#yuli2earn
-#BitCat
-#ONIMAPJ
-#GAMEYS
-#bb
-#kasotukun
-#misa
-#JGG
-#CatchandEarn
-#yuliverse
-#LucianSouls
-#NGS
-#sophyclub
-#QB
-#torimede
-#cos
-#KIMOKAWA
-#DanceFit
-#NR
-#ReadOn
-#NGJ
-#OGP
-#FUELGUILD
-#YGGJapan
-#SamuraiGG
-#HXDAO
-#Hiroba
-#Airbits
-#MetaKozo
-#OVO
-#CREST
-#MMMM
-#BulletChain
+$tip
+#tip
+@tipcoineth
+$tip #tip
+#tip $tip
+$tip @tipcoineth
+@tipcoineth $tip
+#tip @tipcoineth
+@tipcoineth #tip
+$tip #tip @tipcoineth
+@tipcoineth $tip #tip
+@tipcoineth #tip $tip
+#tip @tipcoineth $tip
+#tip $tip @tipcoineth
