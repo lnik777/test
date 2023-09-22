@@ -1,8 +1,4 @@
-$tip
-#tip
 @tipcoineth
-$tip #tip
-#tip $tip
 $tip @tipcoineth
 @tipcoineth $tip
 #tip @tipcoineth
