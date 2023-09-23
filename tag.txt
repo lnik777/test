@@ -1,10 +1,9 @@
-@tipcoineth
-$tip @tipcoineth
-@tipcoineth $tip
-#tip @tipcoineth
-@tipcoineth #tip
-$tip #tip @tipcoineth
-@tipcoineth $tip #tip
-@tipcoineth #tip $tip
-#tip @tipcoineth $tip
-#tip $tip @tipcoineth
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
