@@ -1,47 +1,8 @@
-#Hiroba
-#misa
-#MetaX
-#DanceFit
-#KIMOKAWA
-#OGP
-#ngg_japan
-#ReadOn
-#pixiuclub
-#torimede
-#NGJ
-#HibikiRun
-#MetaKozo
-#QB
-#OVO
-#ヘッドフォンガール
-#HLP
-#sophyclub
-#SamuraiGG
-#CREST
-#MMMM
-#ASC#DAO#WEB3
-#bb
-#Yuli724
-#kasotukun
-#drunkard
-#Q·Boomers
-#OJC
-#BitCat
-#Airbits
-#CatchandEarn
-#YGGJapan
-#NR
-#BulletChain
-#JGG
-#ONIMAPJ
-#PMGG
-#NFPrompt
-#LOOTaDOG
-#LucianSouls
-#GAMEYS
-#NinjaGameGuild
-#FUELGUILD
-#HXDAO
-#SWAGGA
-#surfguild
-#MechCraft
+@tipcoineth $tip
+#tip @tipcoineth
+@tipcoineth #tip
+$tip #tip @tipcoineth
+@tipcoineth $tip #tip
+@tipcoineth #tip $tip
+#tip @tipcoineth $tip
+#tip $tip @tipcoineth
