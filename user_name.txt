@@ -37,3 +37,5 @@ SnipaFinance
 MetaX_Social
 BNBCHAIN
 justinsuntron
+MetaX_Global
+MetaX_Social
